@@ -1,0 +1,9 @@
+
+# Network traffic captures — keep local
+captures/*.pcap
+captures/*.pcapng
+captures/*.cap
+
+# Temporary and generated files
+*.tmp
+*.swp
