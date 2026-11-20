@@ -1,6 +1,6 @@
 # Network Traffic Analysis — Investigating Suspicious Network Activity
 
-**Status:** In Progress  
+**Status:** Completed  
 **Project Type:** Hands-on Cybersecurity Investigation  
 **Environment:** Ubuntu Linux  
 **Tools:** Wireshark, TShark, Git, VS Code
